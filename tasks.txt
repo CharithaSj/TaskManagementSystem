@@ -1,0 +1,4 @@
+﻿Buy Groceries, Get groceries for the week, Medium, 2024-12-16, Personal, false
+Plan Vacation, Organize trip details, Low, 2024-12-20, Personal, false
+Finish Homework, Complete the assignment, High, 2024-12-15, Work, false
+Eat Dinner, Have dinner with family, High, 2024-12-18, Personal, falses
